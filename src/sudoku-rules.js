@@ -58,7 +58,6 @@ function checkBoard(board) {
   return true;
 }
 
-
 module.exports = {
   checkRow,
   checkColumn,
